@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/jorgeenriquetellopedraza/Documents/Estructura de datos"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/jorgeenriquetellopedraza/eclipse-workspace/src"/>
+			<item value="/Users/jorgeenriquetellopedraza/Downloads/MagicMemory.0 (1)/MagicMemory.0"/>
+			<item value="/Users/jorgeenriquetellopedraza/Downloads/MagicMemory.0 (1)"/>
+			<item value="/Users/jorgeenriquetellopedraza/MagicMemory.0 (1)"/>
+			<item value="/Users/jorgeenriquetellopedraza/Documents/PARADIGMAS DE PROGRAMACIÓN/MagicMemory.0 (1)"/>
+			<item value="/Users/jorgeenriquetellopedraza/Documents/PARADIGMAS DE PROGRAMACIÓN"/>
+			<item value="/Volumes/FORENSIS/MagicMemory.0 (1)"/>
+			<item value="/Users/jorgeenriquetellopedraza/NetBeansProjects/MagicMemory.0 (1)/MagicMemory.0/src"/>
+			<item value="/Users/jorgeenriquetellopedraza/NetBeansProjects/MagicMemory.0 (1)/MagicMemory.0"/>
+			<item value="/Users/jorgeenriquetellopedraza/Downloads/MagicMemory.0 (1)/MagicMemory.0/src/Juego"/>
+			<item value="/Users/jorgeenriquetellopedraza/NetBeansProjects/MagicMemory.0 (1)/MagicMemory.0/src/Juego"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="430"/>
+		<item key="DIALOG_Y_ORIGIN" value="22"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="528"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>
